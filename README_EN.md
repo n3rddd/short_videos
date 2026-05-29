@@ -435,9 +435,15 @@ Thank you to the following generous supporters for your sponsorship! Your suppor
       <td style="border: none; border-bottom: 1px solid #e9ecef; padding: 14px; text-align: center; color: #495057;">Support!</td>
     </tr>
     <tr style="background-color: #f8f9fa;">
-      <td style="border: none; padding: 14px; text-align: center; font-weight: 500;">18</td>
-      <td style="border: none; padding: 14px; text-align: center;">零号潮玩舱</td>
-      <td style="border: none; padding: 14px; text-align: center; color: #dc3545; font-weight: bold; font-size: 1.1em;">¥6.66</td>
+      <td style="border: none; border-bottom: 1px solid #e9ecef; padding: 14px; text-align: center; font-weight: 500;">18</td>
+      <td style="border: none; border-bottom: 1px solid #e9ecef; padding: 14px; text-align: center;">零号潮玩舱</td>
+      <td style="border: none; border-bottom: 1px solid #e9ecef; padding: 14px; text-align: center; color: #dc3545; font-weight: bold; font-size: 1.1em;">¥6.66</td>
+      <td style="border: none; border-bottom: 1px solid #e9ecef; padding: 14px; text-align: center; color: #495057;">Support!</td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="border: none; padding: 14px; text-align: center; font-weight: 500;">19</td>
+      <td style="border: none; padding: 14px; text-align: center;">乐花趣</td>
+      <td style="border: none; padding: 14px; text-align: center; color: #28a745; font-weight: bold; font-size: 1.1em;">¥5.00</td>
       <td style="border: none; padding: 14px; text-align: center; color: #495057;">Support!</td>
     </tr>
   </table>
